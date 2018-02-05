@@ -7,7 +7,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(new Greetings().Hello("System Research"));
+            Console.WriteLine(new Greetings().Hello("Standard Research"));
 
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
